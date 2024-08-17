@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hbar_to_usds",
+  "info": {
+    "singularName": "hbar-to-usd",
+    "pluralName": "hbar-to-usds",
+    "displayName": "HBAR to USD",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Value": {
+      "type": "integer"
+    }
+  }
+}

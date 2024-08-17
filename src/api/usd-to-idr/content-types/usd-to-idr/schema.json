@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "usd_to_idrs",
+  "info": {
+    "singularName": "usd-to-idr",
+    "pluralName": "usd-to-idrs",
+    "displayName": "USD to IDR",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Value": {
+      "type": "decimal"
+    }
+  }
+}
